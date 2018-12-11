@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/RubymineProjects/CapyCuke/.idea/CapyCuke.iml" filepath="$USER_HOME$/RubymineProjects/CapyCuke/.idea/CapyCuke.iml" />
+      <module fileurl="file://E:/capybara_examples/capybara-rspec-demo-master/.idea/capybara-rspec-demo-master.iml" filepath="E:/capybara_examples/capybara-rspec-demo-master/.idea/capybara-rspec-demo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/carlos_test.iml" filepath="$PROJECT_DIR$/.idea/modules/carlos_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rspec_tutorial.iml" filepath="$PROJECT_DIR$/.idea/rspec_tutorial.iml" />
+    </modules>
+  </component>
+</project>
